@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 <p align="center">
-  <img src="giphy.gif" alt="gif" width="320"/>
+  <img src="giphy.gif" alt="gif" width="420"/>
 </p>
 
 <h2 align="center">| Time flies, enjoy life |</h2>
