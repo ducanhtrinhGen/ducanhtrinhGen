@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 <p align="center">
-  <img src="![Uploading giphy.gif…]()" alt="banner" width="90%" />
-
+ ![giphy](https://github.com/user-attachments/assets/f7956535-efc4-4c8b-a27f-4713f8d2d9f8)
 </p>
 
 <h2 align="center">| Time flies, enjoy life |</h2>
