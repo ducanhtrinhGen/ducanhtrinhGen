@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 <p align="center">
- ![giphy](https://github.com/user-attachments/assets/f7956535-efc4-4c8b-a27f-4713f8d2d9f8)
+  <img src="[LINK_BANNER_GIF_HOAC_ANH](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFwanZjbmc0MGZmNHJqbGZoMjVhd2htMmo0Z2NrOHF3aTk0dHZ4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nn4FAqmnGul76gcdIg/giphy.gif)" alt="banner" width="90%" />
 </p>
 
 <h2 align="center">| Time flies, enjoy life |</h2>
